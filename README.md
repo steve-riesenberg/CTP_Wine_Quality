@@ -14,6 +14,7 @@ Lab:
 Students will be given the instructions below. Students will pair program in teams of two to follow the instructions as I circle the room and help troubleshoot. After about 15-20 minutes, or after most students have finished step 5, we'll come back together as a class and I will share my example code and we'll hear from students about alternate ways they solved the problem or difficulties they encountered. At this point 30 minutes will probably have passed, but I outlined my thoughts for the rest of the lab as well. The rest of the lab would consist of students experimenting with different ways to improve their base model, with some suggestions from me to get them started. We would come back together at the end to talk about what students tried and what was successful. 
 
 Instructions for students:
+
 * Step 1: Load the data into a dataframe.
 * Step 2: Exploratory Data Analysis -- are there null values in the data? Are there any unexpected distributions? Do we need to do any data cleaning before feeding the data into a model?
 * Step 3: Train-test split
