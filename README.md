@@ -13,10 +13,10 @@ The lecture will start with some basic motivation for linear regression, includi
 
 Lab:
 Students will follow these steps, with example code in the jupyter notebook:
-Step 1: Load the data into a dataframe.
-Step 2: Exploratory Data Analysis -- do we need to do any data cleaning before building our model?
-Step 3: Train-test split
-Step 4: Train a basic linear regression model.
-Step 5: Evaluate the base model using r-squared and root mean squared error.
-Step 6: Iterate on the base model to see if we can improve our chosen metrics. Experiment with taking out different features. Use standard scaling to scale the features. Try variations on linear regression such as ridge regression or lasso regression.
+* Step 1: Load the data into a dataframe.
+* Step 2: Exploratory Data Analysis -- do we need to do any data cleaning before building our model?
+* Step 3: Train-test split
+* Step 4: Train a basic linear regression model.
+* Step 5: Evaluate the base model using r-squared and root mean squared error.
+* Step 6: Iterate on the base model to see if we can improve our chosen metrics. Experiment with taking out different features. Use standard scaling to scale the features. Try variations on linear regression such as ridge regression or lasso regression.
 
